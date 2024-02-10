@@ -12,3 +12,4 @@ C:\Users\Vladislav\Desktop\dotnet\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
 C:\Users\Vladislav\Desktop\dotnet\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
 C:\Users\Vladislav\Desktop\dotnet\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
 C:\Users\Vladislav\Desktop\dotnet\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
+C:\Users\Vladislav\Desktop\dotnet\Lab1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
